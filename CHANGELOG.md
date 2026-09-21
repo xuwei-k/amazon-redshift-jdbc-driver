@@ -3,7 +3,7 @@ Changelog
 
 v2.2.9 (2026-09-16)
 ----------------------
-- Added batch metadata retrieval using SHOW commands (SHOW TABLES / SHOW COLUMNS / SHOW GRANTS ON TABLES FROM DATABASE) to improve the performance of the getTables, getColumns, and getTablePrivileges metadata APIs
+- Improved the performance of the getTables, getColumns, and getTablePrivileges metadata APIs
 - Removed unsupported GSSAPI/SSPI/JAAS authentication
 
 
